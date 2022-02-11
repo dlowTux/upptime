@@ -58,7 +58,7 @@
     "url": "https://educacion.cuautla.tecnm.mx",
     "icon": "https://favicons.githubusercontent.com/educacion.cuautla.tecnm.mx",
     "slug": "moodle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   }
 ]
