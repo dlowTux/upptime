@@ -58,19 +58,19 @@
     "url": "https://educacion.cuautla.tecnm.mx",
     "icon": "https://favicons.githubusercontent.com/educacion.cuautla.tecnm.mx",
     "slug": "moodle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 390,
-    "timeWeek": 585,
-    "timeMonth": 504,
-    "timeYear": 504,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 499,
+    "timeDay": 407,
+    "timeWeek": 565,
+    "timeMonth": 499,
+    "timeYear": 499,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 70
     }
   }
 ]
