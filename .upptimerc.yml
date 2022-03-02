@@ -6,7 +6,7 @@ sites:
   - name: Moodle Cuautla
     url: https://educacion.cuautla.tecnm.mx
   - name : Test
-    url:  https://educaciones.cuautla.tecnm.mx
+    url:  https://educacions.cuautla.tecnm.mx
 assignees: # Users to assign downtime issues (optional)
   - dlowTux
 status-website:
