@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Moodle Cuautla
     url: https://educacion.cuautla.tecnm.mx
+  - name : Test
+    url:  https://educaciones.cuautla.tecnm.mx
 assignees: # Users to assign downtime issues (optional)
   - dlowTux
 status-website:
