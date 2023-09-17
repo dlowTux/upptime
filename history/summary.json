@@ -4,7 +4,7 @@
     "url": "https://educacion.cuautla.tecnm.mx",
     "icon": "https://icons.duckduckgo.com/ip3/educacion.cuautla.tecnm.mx.ico",
     "slug": "moodle-cuautla",
-    "status": "up",
+    "status": "down",
     "uptime": "87.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.73%",
@@ -16,6 +16,7 @@
     "timeMonth": 371,
     "timeYear": 478,
     "dailyMinutesDown": {
+      "2023-09-17": 0,
       "2023-09-14": 229,
       "2023-08-19": 17,
       "2023-08-10": 1073,
