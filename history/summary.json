@@ -6,17 +6,16 @@
     "slug": "moodle-cuautla",
     "status": "up",
     "uptime": "89.56%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "88.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "88.67%",
     "time": 470,
-    "timeDay": 386,
-    "timeWeek": 352,
-    "timeMonth": 370,
+    "timeDay": 406,
+    "timeWeek": 362,
+    "timeMonth": 372,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2024-07-19": 11,
       "2024-07-09": 134,
       "2024-05-23": 1003,
       "2024-05-13": 1376,
@@ -65,8 +64,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
-      "2023-07-22": 1440,
-      "2023-07-21": 1440
+      "2023-07-22": 1440
     }
   }
 ]
