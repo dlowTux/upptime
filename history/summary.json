@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/educacion.cuautla.tecnm.mx.ico",
     "slug": "moodle-cuautla",
     "status": "down",
-    "uptime": "79.13%",
-    "uptimeDay": "76.77%",
-    "uptimeWeek": "87.46%",
-    "uptimeMonth": "94.02%",
+    "uptime": "79.07%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "73.16%",
+    "uptimeMonth": "90.73%",
     "uptimeYear": "52.23%",
     "time": 453,
     "timeDay": 0,
-    "timeWeek": 417,
-    "timeMonth": 394,
+    "timeWeek": 418,
+    "timeMonth": 393,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2026-03-22": 76,
+      "2026-03-23": 77,
+      "2026-03-22": 1440,
       "2026-03-21": 258,
       "2026-03-18": 886,
       "2026-03-16": 44,
@@ -211,8 +212,7 @@
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
-      "2025-03-24": 1440,
-      "2025-03-23": 1440
+      "2025-03-24": 1440
     }
   }
 ]
